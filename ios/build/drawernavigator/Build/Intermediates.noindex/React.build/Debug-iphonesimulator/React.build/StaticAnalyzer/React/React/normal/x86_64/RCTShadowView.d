@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Views/RCTShadowView.m \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Views/RCTLayout.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/ios/build/drawernavigator/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/ios/build/drawernavigator/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/ios/build/drawernavigator/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/ios/build/drawernavigator/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Modules/RCTI18nUtil.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Views/UIView+Private.h \
+  /Users/sudarshanvishwakarma/Projects/drawernavigator/node_modules/react-native/React/Views/UIView+React.h
