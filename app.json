@@ -1,0 +1,7 @@
+{
+  "name": "drawernavigator",
+  "displayName": "drawernavigator",
+  "assetBundlePatterns": [
+    "assets/*"
+  ]
+}
